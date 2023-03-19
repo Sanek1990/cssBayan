@@ -1,3 +1,3 @@
 # cssBayan
 
-## <https://${Sanek1990}.github.io/cssBayan/cssBayan/index.html>
+## <https://iridescent-caramel-07faca.netlify.app/>
